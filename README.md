@@ -68,7 +68,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/simran-kaur-bakshi-141228289/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:simsbakshi9@gmail.com">
