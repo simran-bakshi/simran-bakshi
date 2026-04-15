@@ -7,10 +7,10 @@
 ---
 
 ### 🚀 About Me
-- 💻 Backend Developer with hands-on project & internship experience  
-- ⚙️ Built scalable APIs using **Spring Boot & Django**  
-- 🔥 Strong in databases, performance optimization & system design  
-- 🤖 Exploring AI integration in backend systems  
+- Backend Developer with hands-on project & internship experience  
+- Built scalable APIs using **Spring Boot & Django**  
+- Strong in databases, performance optimization & system design  
+- Exploring AI integration in backend systems  
 
 ---
 
