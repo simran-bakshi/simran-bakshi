@@ -54,8 +54,6 @@
 
 ### 🧩 Featured Projects
 
-### Featured Projects
-
 - **EchoWrite – AI Audio Transcription App**  
   Converts audio to text using Groq (Whisper) with Spring Boot and React
   
