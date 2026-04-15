@@ -1,1 +1,95 @@
-# simran-kaur-bakshi
+<h1 align="center">Hi 👋, I'm Simran Kaur Bakshi</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Spring+Boot+Developer;Building+Scalable+Systems;Exploring+AI+%2B+Backend&center=true&width=520&height=45">
+</p>
+
+---
+
+### 🚀 About Me
+- 💻 Backend Developer with hands-on project & internship experience  
+- ⚙️ Built scalable APIs using **Spring Boot & Django**  
+- 🔥 Strong in databases, performance optimization & system design  
+- 🤖 Exploring AI integration in backend systems  
+
+---
+
+### ⚡ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,sql" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,django,nodejs,docker,postman,git,github" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,html,css,linux" />
+</p>
+
+---
+
+### 🧠 Key Highlights
+
+- 🚆 Built **10+ REST APIs** during internship (Indian Railways)
+- ⚡ Optimized SQL queries → improved performance significantly  
+- 🔐 Implemented **JWT Authentication + RBAC**
+- 💬 Built real-time chat using **WebSockets**
+- 🤖 Applied **Linear Regression for predictions (AI project)**  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simran-bakshi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=simran-bakshi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+- 🧠 **AI Health Tracker**  
+  → JWT Auth + AI predictions (Linear Regression)
+
+- 💬 **Real-Time Chat App**  
+  → WebSocket based messaging system  
+
+- ✉️ **AI Email Assistant**  
+  → Gemini API + automated responses  
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:simsbakshi9@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simran-bakshi/simran-bakshi/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### ⚡ Current Focus
+
+```txt
+✔ Scalable Backend Systems
+✔ API Design & Optimization
+✔ AI + Backend Integration
+✔ Clean Architecture
