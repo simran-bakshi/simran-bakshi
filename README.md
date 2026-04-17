@@ -82,7 +82,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/simran-bakshi/simran-kaur-bakshi/output/github-contribution-grid-snake.svg" />
